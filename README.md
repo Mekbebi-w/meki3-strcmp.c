@@ -1,0 +1,1 @@
+# meki3-strcmp.c
